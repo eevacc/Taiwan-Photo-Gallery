@@ -1,7 +1,7 @@
 # Image Gallery Code Along Exercise 
 # Project: HTML & CSS 
 This is an image gallery code along exercise for The Web Developer Bootcamp by Colt Steele on Udemy.
-**Live Preview** of the page is [here] (https://htmlpreview.github.io/?https://github.com/eevacc/Taiwan-Photo-Gallery/blob/master/index.html)
+**Live Preview** of the page is [here](https://rb.gy/ocg105)
 ## Outcome
 #### HTML5
 * Used HTML5 **img** and **p** tag.
